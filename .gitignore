@@ -8,4 +8,5 @@
 *.iws
 .idea
 target/
+test-output
 .DS_Store
